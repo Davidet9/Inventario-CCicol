@@ -1,0 +1,6 @@
+{
+  "name": "Cicol Inventario IPS - Gestión y Control de Activos",
+  "description": "Plataforma integral de gestión de inventarios, equipos biomédicos, tecnológicos, mobiliario, transferencias de ubicación y reportería estratégica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
